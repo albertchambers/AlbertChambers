@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/AlbertChambers">
-    <img img src="https://github.com/AlbertChambers/AlbertChambers/blob/main/AC%20Name.png" alt="Albert Chambers" /></a>
+    <img width="720" src="https://github.com/AlbertChambers/AlbertChambers/blob/main/AC%20Name.png" alt="Albert Chambers" /></a>
 </h1>
 
 <br/>
