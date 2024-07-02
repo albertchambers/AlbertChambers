@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/AlbertChambers">
-    <img img width="180px" length="180px" src="https://github.com/AlbertChambers/AlbertChambers/blob/main/AC%20Name.png" alt="Albert Chambers" /></a>
+    <img img width="720" src="https://github.com/AlbertChambers/AlbertChambers/blob/main/AC%20Name.png" alt="Albert Chambers" /></a>
 </h1>
 
 **`Apprentice Software Developer (Aspiring Full-Stack Javascript Engineer)`**
