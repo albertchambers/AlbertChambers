@@ -1,15 +1,13 @@
-# ✨ Albert Chambers ✨
+<h1 align="center">
+  <a href="https://github.com/AlbertChambers">
+    <img img width="180px" length="180px" src="https://github.com/AlbertChambers/AlbertChambers/blob/main/AC%20Name.png" alt="Albert Chambers" /></a>
+</h1>
 
 **`Apprentice Software Developer (Aspiring Full-Stack Javascript Engineer)`**
 
 The eternal rabbit hole: It works... Why? It doesn’t work... Why?
 
 <br/>
-
-<h1 align="center">
-  <a href="https://github.com/AlbertChambers">
-    <img src="https://github.com/AlbertChambers/AlbertChambers/blob/main/AC%20Name.png" alt="Albert Chambers" /></a>
-</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -25,9 +23,6 @@ The eternal rabbit hole: It works... Why? It doesn’t work... Why?
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
 <!-- GitHub Star link -->
