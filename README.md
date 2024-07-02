@@ -3,10 +3,6 @@
     <img img width="720" src="https://github.com/AlbertChambers/AlbertChambers/blob/main/AC%20Name.png" alt="Albert Chambers" /></a>
 </h1>
 
-**`Apprentice Software Developer (Aspiring Full-Stack Javascript Engineer)`**
-
-The eternal rabbit hole: It works... Why? It doesn’t work... Why?
-
 <br/>
 
 <p align="center">
