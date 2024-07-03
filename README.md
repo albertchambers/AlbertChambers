@@ -21,12 +21,6 @@
 </p>
 &#8287;
 
-<!-- Software icons section -->
-<p>
-  <img align="left" alt="" Title="" width="50px" style="padding-right:10px;" src=""/>&#8287;&#8287;
-</p>
-  &#8287;
-
   <summary><h2>Current Digital Craftsman's Tools</h2></summary>
   
   <h3>👨‍💻 Integrated Development Environment's</h3>
