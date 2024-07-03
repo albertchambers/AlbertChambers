@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://github.com/AlbertChambers">
-    <img width="480px" src="https://github.com/AlbertChambers/AlbertChambers/blob/main/AC%20Name.png" alt="Albert Chambers" /></a>
+    <img width="480px" src="Readme Img Src/AC Name.png" alt="Albert Chambers" /></a>
 </h1>
 
+<!--SVG Intro-->
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
@@ -19,7 +19,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!--
+<!-- Software icons section -->
+<p>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -35,8 +36,7 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
--->
+</p>
 
   <summary><h2>Digital Craftsmans Tools: Gadget Grab Bag</h2></summary>
   
