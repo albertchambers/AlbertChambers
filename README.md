@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/AlbertChambers">
-    <img width="480px" src="Readme Img Src/AC Name.png" alt="Albert Chambers" /></a>
+    <img width="360" src="Readme Img Src/AC Name.png" alt="Albert Chambers" /></a>
 </h1>
 
 <!--SVG Intro-->
