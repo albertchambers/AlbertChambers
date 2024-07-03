@@ -36,13 +36,11 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+-->
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -69,9 +67,10 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
+  </details>
 
+  <details>
   <h3>🧰 Frameworks and Libraries</h3>
-
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
@@ -99,9 +98,10 @@
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
   </p>
+  </details>
 
+  <details>
   <h3>🗄️ Databases and Cloud Hosting</h3>
-
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -115,9 +115,10 @@
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
+  </details>
 
+  <details>
   <h3>💻 Software and Tools</h3>
-
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -144,50 +145,3 @@
   </p>
 </details>
 
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#59](https://github.com/DenverCoder1/readme-typing-svg/issues/59) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#696](https://github.com/DenverCoder1/github-readme-streak-stats/issues/696) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🎉 Merged PR [#179](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/179) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-4. 🎉 Merged PR [#694](https://github.com/DenverCoder1/github-readme-streak-stats/pull/694) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-5. 🎉 Merged PR [#693](https://github.com/DenverCoder1/github-readme-streak-stats/pull/693) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
-</details>
