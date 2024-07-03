@@ -12,11 +12,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/235437942397468673"><img alt="Discord" title="Albert C. Discord" width="50px" src="Readme Img Src/Discord Icon.png"/></a>
+  <a href="https://discord.gg/235437942397468673"><img alt="Albert Chambers Discord" title="Discord" width="50px" src="Readme Img Src/Discord Icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/albert-chambers/"><img width="50px" alt="Albert Chambers LinkedIn" title="LinkedIn" src="Readme Img Src/LinkedIn Icon.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="(https://dev.to/albert_chambers)"><img width="55px" alt="Dev.to" title="Albert Chambers Dev.to" src="Readme Img Src/DEV Icon.png"></a>
+  <a href="(https://dev.to/albert_chambers)"><img width="55px" alt="Albert Chambers Dev.to" title="Dev.to" src="Readme Img Src/DEV Icon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 &#8287;
