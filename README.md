@@ -76,7 +76,7 @@
   </p>
   &#8287;
   
-  <h3>Next Frameworks and Libraries</h3>
+  <h3 style="padding-right:10px;"> Next Frameworks and Libraries</h3>
   <p>
     <a href="#"><img align="left" alt="React" Title="React" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="Bootstrap" Title="Bootstrap" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>&#8287;&#8287;
