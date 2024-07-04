@@ -56,8 +56,10 @@
   </p>
   &#8287;
 
+  &#8287;
   <Details close>
   <summary><h2>Acquiring Digital Craftsman's Tools</h2></summary>
+  &#8287;
 
   <h3>Next Programming and Markup Languages</h3>
   <p>
@@ -85,6 +87,7 @@
     <a href="#"><img align="left" alt="gRPC" Title="gRPC" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="tRPC" Title="tRPC" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="jQuery" Title="jQuery" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></a>&#8287;&#8287;
+  </p><p>
     <a href="#"><img align="left" alt="JavaScript Object Notation" Title="JSON" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="NPMjs" Title="NPMjs" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="Performant NPM" Title="PNPM" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg"></a>&#8287;&#8287; 
