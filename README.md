@@ -98,7 +98,7 @@
     <a href="#"><img align="left" alt="Pandas" Title="Pandas" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="Socketio" Title="Socketio" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="TensorFlow" Title="TensorFlow" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"></a>&#8287;&#8287; 
-    <a href="#"><img align="left" alt="Vuejs" Title="Vuejs" width="50px" style="padding-right:10px;" src=https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg""></a>&#8287;&#8287;
+    <a href="#"><img align="left" alt="Vuejs" Title="Vuejs" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></a>&#8287;&#8287;
   </p>
   &#8287;
   
