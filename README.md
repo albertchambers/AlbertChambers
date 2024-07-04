@@ -59,7 +59,7 @@
   &#8287;
 
   &#8287;
-  <Details close>https://github.com/AlbertChambers/AlbertChambers/blob/main/README.md
+  <Details close>
   <summary><h2>Acquiring Digital Craftsman's Tools</h2></summary>
   &#8287;
 
