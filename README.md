@@ -137,7 +137,7 @@
   &#8287;
   <p>
     <a href="#"><img align="left" alt="GitHub Usage" width="420px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=gruvbox"></a>&#8287;&#8287;
-    <a href="#"><img align="left" alt="Coding Experience" width="265px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut&theme=gruvbox"></a>&#8287;&#8287;
+    <a href="#"><img align="left" alt="Coding Experience" width="280px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut&theme=gruvbox"></a>&#8287;&#8287;
   </p>
   </details>
   &#8287;
