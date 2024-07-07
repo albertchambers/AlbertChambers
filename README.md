@@ -141,7 +141,7 @@
   <p>
     <a href="#"><img align="left" alt="GitHub Usage" width="480px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=gruvbox"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="Coding Experience" width="325px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut"></a>&#8287;&#8287;
-    <a href="#"><img align="left" alt="GitHub Usage" width="480px" style="padding-right:10px;" src=":https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut"></a>&#8287;&#8287;
+    <a href="#"><img align="left" alt="GitHub Usage" width="480px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=gruvbox"></a>&#8287;&#8287;
   </p>
   </details>
   &#8287;
