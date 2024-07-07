@@ -57,6 +57,7 @@
     <a href="#"><img align="left" alt="WordPress" Title="WordPress" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"></a>&#8287;&#8287;
   </p>
   &#8287;
+  </Details>
 
   &#8287;
   <Details close>
