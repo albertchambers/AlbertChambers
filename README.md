@@ -139,7 +139,7 @@
     
   &#8287;
   <p>
-    <a href="#"><img align="left" alt="Figma" Title="Figma" width="480px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=cobalt"></a>
+    <a href="#"><img align="left" alt="Figma" Title="Figma" width="480px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=synthwave"></a>
   </p>
   </details>
   &#8287;
