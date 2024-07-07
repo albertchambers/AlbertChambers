@@ -131,5 +131,6 @@
   </p>
   &#8287;
 
-
+  &#8287;
+  ![AlbertChambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=radical)
   
