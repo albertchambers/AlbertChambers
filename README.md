@@ -133,10 +133,7 @@
   </details>
   &#8287;
 
-  &#8287;
-  <Details open>
-  <summary><h2>My Statistics</h2></summary>
-    
+  <!--Statistic Elements-->
   &#8287;
   <p>
     <a href="#"><img align="left" alt="GitHub Usage" width="480px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=gruvbox"></a>&#8287;&#8287;
