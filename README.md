@@ -56,8 +56,8 @@
     <a href="#"><img align="left" alt="WebFlow" Title="WebFlow" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="WordPress" Title="WordPress" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"></a>&#8287;&#8287;
   </p>
-  &#8287;
   </Details>
+  &#8287;
 
   &#8287;
   <Details close>
@@ -130,6 +130,7 @@
     <a href="#"><img align="left" alt="Jupyter" Title="Jupyter" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></a>&#8287;&#8287;
     <a href="#"><img align="left" alt="Vitejs" Title="Vitejs" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"></a>&#8287;&#8287;
   </p>
+  </details>
   &#8287;
 
   &#8287;
@@ -140,5 +141,6 @@
   <p>
   ![AlbertChambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=radical)
   </p>
+  </details>
   &#8287;
   
