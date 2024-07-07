@@ -139,8 +139,7 @@
     
   &#8287;
   <p>
-    <a href="#"><img align="left" alt="Figma" Title="Figma" width="50px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=radical"></a>
-    ![AlbertChambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=radical)
+    <a href="#"><img align="left" alt="Figma" Title="Figma" width="360px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=radical"></a>
   </p>
   </details>
   &#8287;
