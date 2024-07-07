@@ -136,6 +136,8 @@
   <summary><h2>My Statistics</h2></summary>
     
   &#8287;
+  <p>
   ![AlbertChambers's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=radical)
+  </p>
   &#8287;
   
