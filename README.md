@@ -77,7 +77,8 @@
     <a href="#"><img align="left" alt="Svelte" Title="Svelte" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg"></a>&#8287;&#8287;
   </p>&#8287;<p>
     <a href="#"><img align="left" alt="XML" Title="XML" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg"></a>&#8287;&#8287;
-  </p>
+    <a href="#"><img align="left" alt="XML" Title="XML" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>&#8287;&#8287;
+ </p>
   &#8287;
   
   <h3 style="padding-right:10px;"> Next Frameworks and Libraries</h3>
