@@ -22,7 +22,7 @@
 &#8287;
 
 <summary><h2>Junior Front-End Software Developer | SEO Specialist | Aspiring Rustacean</h2></summary>
-<p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMD</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into the world of full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
+<p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMD</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
 &#8287;
 
 <Details open>
@@ -142,7 +142,7 @@
 &#8287;
 <p>
   <a href="#"><img align="left" alt="GitHub Usage" width="420px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=gruvbox"></a>&#8287;&#8287;
-  <a href="#"><img align="right" alt="Coding Experience" width="285px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&hide=html,css&layout=donut&theme=gruvbox" icons=true></a>&#8287;&#8287;
+  <a href="#"><img align="right" alt="Coding Experience" width="285px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut&theme=gruvbox" icons=true></a>&#8287;&#8287;
 </p>
 </details>
 &#8287;
