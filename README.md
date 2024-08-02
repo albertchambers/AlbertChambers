@@ -43,20 +43,21 @@
 </p>
 &#8287;
 
-<h3>Databases and Hosting</h3>
+<h3>Databases, CDN and Hosting</h3>
 <p>
+  <a href="#"><img align="left" alt="GitHub" Title="GitHub" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="FireBase" Title="FireBase" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="Cloudflare" Title="Cloudflare" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg"></a>&#8287;&#8287;
 </p>
 &#8287;
 
 <h3>Software and IDE's</h3>
 <p>
   <a href="#"><img align="left" alt="Virtual Studio Code" Title="VS Code" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>&#8287;&#8287;
-  <a href="#"><img align="left" alt="GitHub" Title="GitHub" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Canva" Title="Canva" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Ubersuggest" Title="Ubersuggest" width="90px" style="padding-right:10px;" src="https://app.neilpatel.com/static/media/ubersuggest-logo-orange.3154e20654de42b205ba71720d1f44c6.svg"></a>&#8287;&#8287;
-</p>&#8287;<p>
-  <a href="#"><img align="left" alt="Cloudflare" Title="Cloudflare" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg"></a>&#8287;&#8287;
+</p>&#8287;
+<p>
   <a href="#"><img align="left" alt="Google" Title="Google" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="WebFlow" Title="WebFlow" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="WordPress" Title="WordPress" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"></a>&#8287;&#8287;
