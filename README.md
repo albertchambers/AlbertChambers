@@ -38,15 +38,14 @@
 
 <h3>Frameworks, Libraries and Utilities</h3>
 <p>
-  <a href="#"><img align="left" alt="" Title="" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/"></a>&#8287;&#8287;
-  <a href="#"><img align="left" alt="" Title="" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="Bootstrap" Title="Bootstrap" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="SCSS" Title="Tailwindcss" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"></a>&#8287;&#8287;
 </p>
 &#8287;
 
 <h3>Databases and Hosting</h3>
 <p>
-  <a href="#"><img align="left" alt="Bootstrap" Title="Bootstrap" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>&#8287;&#8287;
-  <a href="#"><img align="left" alt="" Title="" width="50px" style="padding-right:10px;" src=""></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="FireBase" Title="FireBase" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"></a>&#8287;&#8287;
 </p>
 &#8287;
 
