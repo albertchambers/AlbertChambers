@@ -22,7 +22,7 @@
 &#8287;
 
 <summary><h2>Junior Front-End Software Developer | SEO Specialist | Aspiring Rustacean</h2></summary>
-<p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMD</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
+<p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMS</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
 &#8287;
 
 <Details open>
@@ -43,7 +43,7 @@
 </p>
 &#8287;
 
-<h3>Databases, CDN and Hosting</h3>
+<h3>Databases, CDN's and Hosting</h3>
 <p>
   <a href="#"><img align="left" alt="GitHub" Title="GitHub" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="FireBase" Title="FireBase" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg"></a>&#8287;&#8287;
@@ -51,7 +51,7 @@
 </p>
 &#8287;
 
-<h3>Software and IDE's</h3>
+<h3>Software, IDE's and CMS</h3>
 <p>
   <a href="#"><img align="left" alt="Virtual Studio Code" Title="VS Code" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Canva" Title="Canva" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></a>&#8287;&#8287;
@@ -117,7 +117,7 @@
 </p>
 &#8287;
 
-<h3>Next Databases and Hosting</h3>
+<h3>Next Databases, CDN's and Hosting</h3>
 <p>
   <a href="#"><img align="left" alt="Bash" Title="Bash" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="MongoDB" Title="MongoDB" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></a>&#8287;&#8287;
@@ -129,7 +129,7 @@
 </p>
 &#8287;
 
-<h3>Next Software and IDE's</h3>
+<h3>Next Software, IDE's and CMS</h3>
 <p>
   <a href="#"><img align="left" alt="Figma" Title="Figma" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Git" Title="Git" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>&#8287;&#8287;
