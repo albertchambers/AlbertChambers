@@ -142,8 +142,7 @@
 &#8287;
 <p>
   <a href="#"><img align="left" alt="GitHub Usage" width="420px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=gruvbox"></a>&#8287;&#8287;
-  <a href="#"><img align="right" alt="Coding Experience" width="285px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut&theme=gruvbox"></a>&#8287;&#8287;
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlbertChambers)](https://github.com/AlbertChambers/github-readme-stats)
+  <a href="#"><img align="right" alt="Coding Experience" width="285px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&hide=html&layout=donut&theme=gruvbox" icons=true></a>&#8287;&#8287;
 </p>
 </details>
 &#8287;
