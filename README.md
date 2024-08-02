@@ -51,7 +51,7 @@
 </p>
 &#8287;
 
-<h3>Software, IDE's and CMS</h3>
+<h3>SEO, IDE's and CMS</h3>
 <p>
   <a href="#"><img align="left" alt="Virtual Studio Code" Title="VS Code" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Canva" Title="Canva" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></a>&#8287;&#8287;
