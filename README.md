@@ -28,7 +28,7 @@
 
 - :triumph: Mastering skills through [CodeWars](https://www.codewars.com/users/AlbertChambers) and [CSSBattle](https://cssbattle.dev/player/albertc).
 
-- 🌱 Learning **HTML, CSS and Javascript**.
+- 🌱 Learning **HTML, CSS and JavaScript**.
 
 - 👨‍💻 Projects will be available at [Valiant Visions](https://valiant-visions.com).
 
