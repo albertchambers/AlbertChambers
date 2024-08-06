@@ -35,8 +35,6 @@
 - 💬 Let's talk about **CSS, JavaScript and Rust**
 
 - 📫 Cheers to meeting **albertchambers09@gmail.com**
-
-- ⚡ Fun fact: **I do Cultivation**
 &#8287;
 
 <Details open>
