@@ -164,4 +164,4 @@
 </details>
 &#8287;
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=AlbertChambers&label=Profile%20views&color=FFBD59&style=flat" alt="AlbertChambers Views"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=AlbertChambers&label=Profile%20Views&color=FFBD59&style=flat" alt="AlbertChambers Views"/></p>
