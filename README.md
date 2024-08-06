@@ -151,11 +151,11 @@
   <a href="#"><img align="left" alt="Jupyter" Title="Jupyter" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Vitejs" Title="Vitejs" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"></a>&#8287;&#8287;
 </p>
+</details>
 &#8287;
 
 <!--Statistic Elements-->
 &#8287;
-<details>
 <p>
   <a href="#"><img align="left" alt="Albert Chambers GitHub Usage" width="350px" height="200px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&locale=en&theme=gruvbox"></a>&#8287;&#8287;
   <a href="#"><img alt="Albert C. GitHub Streak" align="center" style="padding-right:10px;" src="https://github-readme-streak-stats.herokuapp.com?user=AlbertChambers&theme=gruvbox&exclude_days=Sun%2CSat&card_width=300&card_height=200"/></a>
