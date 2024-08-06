@@ -26,7 +26,7 @@
 
 - 🔭 Pursuing [Front-End Software Development](https://www.codespace.co.za/).
 
-- :triumph: Mastering skills through [CodeWars](https://www.codewars.com/) and [CSSBattle](https://cssbattle.dev/).
+- :triumph: Mastering skills through [CodeWars](https://www.codewars.com/users/AlbertChambers) and [CSSBattle](https://cssbattle.dev/player/albertc).
 
 - 🌱 Learning **HTML, CSS and Javascript**.
 
