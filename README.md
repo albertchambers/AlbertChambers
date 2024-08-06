@@ -23,7 +23,6 @@
 
 <summary><h2>Junior Front-End Software Developer | SEO Specialist | Aspiring Rustacean</h2></summary>
 <p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMS</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
-&#8287;
 
 - 🔭 I’m pursuing [Front-End Software Development](https://www.codespace.co.za/).
 
@@ -35,7 +34,7 @@
 
 - 📫 Cheers to meeting **albertchambers09@gmail.com**
 
-- ⚡ Fun fact **I'm a Cultivater**
+- ⚡ Fun fact **I do Body Cultivation**
 &#8287;
 
 <Details open>
