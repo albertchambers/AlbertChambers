@@ -151,7 +151,6 @@
   <a href="#"><img align="left" alt="Jupyter" Title="Jupyter" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Vitejs" Title="Vitejs" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"></a>&#8287;&#8287;
 </p>
-</details>
 &#8287;
 
 <!--Statistic Elements-->
@@ -161,5 +160,6 @@
   <a href="#"><img alt="Albert C. GitHub Streak" align="center" style="padding-right:10px;" src="https://github-readme-streak-stats.herokuapp.com?user=AlbertChambers&theme=gruvbox&exclude_days=Sun%2CSat&card_width=300&card_height=200"/></a>
   <a href="#"><img align="right" alt="Albert Chambers Avarage Code Use" width="250px" height="200px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut&theme=gruvbox&include_all_commits=true"></a>&#8287;&#8287;
 </p>
-</details>
 &#8287;
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=AlbertChambers&label=Profile%20views&color=0e75b6&style=flat" alt="AlbertChambers Views"/></p>
