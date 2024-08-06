@@ -25,8 +25,22 @@
 <p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMS</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
 &#8287;
 
+- 🔭 I’m pursuing [Front-End Software Development](https://www.codespace.co.za/).
+
+- 🌱 I’m learning **HTML, CSS and Javascript**.
+
+- 👨‍💻 My projects will be available at [Valiant Visions](https://valiant-visions.com).
+
+- 💬 Lets talk about **CSS, JavaScript and Rust**
+
+- 📫 Cheers to meeting **albertchambers09@gmail.com**
+
+- ⚡ Fun fact **I'm a Cultivater**
+&#8287;
+
 <Details open>
 <summary><h2>Current Digital Craftsman's Tools</h2></summary>
+&#8287;
 
 <h3>Programming and Markup Languages</h3>
 <p>
@@ -148,3 +162,8 @@
 </details>
 &#8287;
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbertChambers&show_icons=true&locale=en&layout=compact" alt="zigaowang" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&locale=en" alt="zigaowang" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertChambers&" alt="zigaowang" /></p>
