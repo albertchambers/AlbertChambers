@@ -155,14 +155,10 @@
 <!--Statistic Elements-->
 &#8287;
 <p>
-  <a href="#"><img align="left" alt="GitHub Usage" width="420px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&theme=gruvbox"></a>&#8287;&#8287;
-  <a href="#"><img align="right" alt="Coding Experience" width="285px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut&theme=gruvbox&include_all_commits=true"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="Albert Chambers GitHub Usage" width="420px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&locale=en&theme=gruvbox"></a>&#8287;&#8287;
+  <a href="#"><img align="right" alt="Albert Chambers Avarage Code Use" width="285px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut&theme=gruvbox&include_all_commits=true"></a>&#8287;&#8287;
 </p>
 </details>
 &#8287;
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbertChambers&show_icons=true&locale=en&layout=compact" alt="zigaowang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&locale=en" alt="zigaowang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertChambers&" alt="zigaowang" /></p>
