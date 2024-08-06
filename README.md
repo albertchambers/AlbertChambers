@@ -154,6 +154,8 @@
 </details>
 &#8287;
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlbertChambers&label=Profile%20views&color=0e75b6&style=flat" alt="AlbertC" /> </p>
+
 <!--Statistic Elements-->
 &#8287;
 <p>
