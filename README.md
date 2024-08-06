@@ -26,6 +26,8 @@
 
 - 🔭 I’m pursuing [Front-End Software Development](https://www.codespace.co.za/).
 
+- 🔭 Master my skills through [CodeWars](https://www.codewars.com/) and [CSSBattle](https://cssbattle.dev/).
+
 - 🌱 I’m learning **HTML, CSS and Javascript**.
 
 - 👨‍💻 My projects will be available at [Valiant Visions](https://valiant-visions.com).
