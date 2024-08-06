@@ -24,7 +24,7 @@
 <summary><h2>Junior Front-End Software Developer | SEO Specialist | Aspiring Rustacean</h2></summary>
 <p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMS</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
 
-- 🔭 Pursuing [Front-End Software Development](https://www.codespace.co.za/).
+- 🔭 Pursuing Software Engineering at [CodeSpace Academy](https://www.codespace.co.za/) and [freeCodeCamp](https://www.freecodecamp.org/).
 
 - :triumph: Mastering skills through [CodeWars](https://www.codewars.com/users/AlbertChambers) and [CSSBattle](https://cssbattle.dev/player/albertc).
 
