@@ -24,13 +24,13 @@
 <summary><h2>Junior Front-End Software Developer | SEO Specialist | Aspiring Rustacean</h2></summary>
 <p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMS</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
 
-- 🔭 I’m pursuing [Front-End Software Development](https://www.codespace.co.za/).
+- 🔭 Pursuing [Front-End Software Development](https://www.codespace.co.za/).
 
-- :triumph: Master my skills through [CodeWars](https://www.codewars.com/) and [CSSBattle](https://cssbattle.dev/).
+- :triumph: Mastering skills through [CodeWars](https://www.codewars.com/) and [CSSBattle](https://cssbattle.dev/).
 
-- 🌱 I’m learning **HTML, CSS and Javascript**.
+- 🌱 Learning **HTML, CSS and Javascript**.
 
-- 👨‍💻 My projects will be available at [Valiant Visions](https://valiant-visions.com).
+- 👨‍💻 Projects will be available at [Valiant Visions](https://valiant-visions.com).
 
 - 💬 Lets talk about **CSS, JavaScript and Rust**
 
