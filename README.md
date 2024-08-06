@@ -32,7 +32,7 @@
 
 - 👨‍💻 Projects will be available at [Valiant Visions](https://valiant-visions.com).
 
-- 💬 Lets talk about **CSS, JavaScript and Rust**
+- 💬 Let's talk about **CSS, JavaScript and Rust**
 
 - 📫 Cheers to meeting **albertchambers09@gmail.com**
 
