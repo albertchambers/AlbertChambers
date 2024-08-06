@@ -26,7 +26,7 @@
 
 - 🔭 I’m pursuing [Front-End Software Development](https://www.codespace.co.za/).
 
-- 🔭 Master my skills through [CodeWars](https://www.codewars.com/) and [CSSBattle](https://cssbattle.dev/).
+- :triumph: Master my skills through [CodeWars](https://www.codewars.com/) and [CSSBattle](https://cssbattle.dev/).
 
 - 🌱 I’m learning **HTML, CSS and Javascript**.
 
