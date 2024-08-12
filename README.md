@@ -156,7 +156,7 @@
 &#8287;
 <p>
   <a href="#"><img align="left" alt="Albert Chambers GitHub Usage" width="250px" height="200px" style="padding-right:2px;" src="https://github-readme-stats.vercel.app/api?username=AlbertChambers&show_icons=true&locale=en&theme=gruvbox"></a>&#8287;&#8287;
-  <a href="#"><img alt="Albert C. GitHub Streak" align="center" style="padding-right:2px;" src="https://github-readme-streak-stats.herokuapp.com?user=AlbertChambers&theme=gruvbox&exclude_days=Sun%2CSat&card_width=300&card_height=200"/></a>
+  <a href="#"><img alt="Albert C. GitHub Streak" align="center" style="padding-right:10px;" src="https://github-readme-streak-stats.herokuapp.com?user=AlbertChambers&theme=gruvbox&exclude_days=Sun%2CSat&card_width=300&card_height=200"/></a>
   <a href="#"><img align="right" alt="Albert Chambers Avarage Code Use" width="200px" height="200px" style="padding-left:2px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChambers&layout=donut&theme=gruvbox&include_all_commits=true"></a>&#8287;&#8287;
 </p>
 </details>
