@@ -27,7 +27,7 @@
 - 🔭 Pursuing **Software Engineering** at [CodeSpace Academy](https://www.codespace.co.za/) and [freeCodeCamp](https://www.freecodecamp.org/).
 
 - :triumph: Mastering skills through [CodeWars](https://www.codewars.com/users/AlbertChambers), [CodinGame](https://www.codingame.com/profile/ac3c4e95dd57ea2c922bdc7beda8db082755706/following
-) [CSSBattle](https://cssbattle.dev/player/albertc).
+) and [CSSBattle](https://cssbattle.dev/player/albertc).
 
 - 🌱 Learning **CSS and JavaScript**.
 
