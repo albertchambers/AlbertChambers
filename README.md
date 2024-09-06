@@ -45,7 +45,7 @@
   <a href="#"><img align="left" alt="Mark Down" Title="Markdown" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="HyperText Markup Language" Title="HTML5" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Cascade Sheet Style Three" Title="CSS3" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a>&#8287;&#8287;
-  <a href="#"><img align="left" alt="JavaScript" Title="JavaScript" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="JavaScript" Title="JavaScript" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg"></a>&#8287;&#8287;
 </p>
 &#8287;
 
@@ -53,6 +53,7 @@
 <p>
   <a href="#"><img align="left" alt="Bootstrap" Title="Bootstrap" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="SCSS" Title="Tailwindcss" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="React" Title="React" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>&#8287;&#8287;
 </p>
 &#8287;
 
@@ -103,7 +104,7 @@
 
 <h3 style="padding-right:10px;">Next Frameworks, Libraries and Utilities</h3>
 <p>
-  <a href="#"><img align="left" alt="React" Title="React" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="TensorFlow" Title="TensorFlow" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"></a>&#8287;&#8287; 
   <a href="#"><img align="left" alt="ReactBootstrap" Title="ReactBootstrap" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Alpinejs" Title="Alpinejs" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Vuejs" Title="Vuejs" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></a>&#8287;&#8287;
@@ -126,7 +127,6 @@
   <a href="#"><img align="left" alt="Numpy" Title="Numpy" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Pandas" Title="Pandas" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Socketio" Title="Socketio" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"></a>&#8287;&#8287;
-  <a href="#"><img align="left" alt="TensorFlow" Title="TensorFlow" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"></a>&#8287;&#8287; 
 </p>&#8287;<p>
 </p>
 &#8287;
