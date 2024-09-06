@@ -36,7 +36,7 @@
 - 📫 Cheers to meeting **albertchambers09@gmail.com**.
 &#8287;
 
-let albert = "Learning and coding";
+const albert = "Learning and coding";
 
 function letAlbertGrow() {
     albert += " every day!";
