@@ -24,16 +24,14 @@
 <summary><h2>Front-End Software Developer | SEO Specialist | Aspiring Rustacean</h2></summary>
 <p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMS</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
 
-- 🔭 Pursuing **Software Engineering** at [CodeSpace Academy](https://www.codespace.co.za/) and [freeCodeCamp](https://www.freecodecamp.org/).
+- 🔭 Pursuing **Full React Stack Software Development** at [CodeSpace Academy](https://www.codespace.co.za/) and [freeCodeCamp](https://www.freecodecamp.org/).
 
 - :triumph: Mastering skills through [CodeWars](https://www.codewars.com/users/AlbertChambers), [CodinGame](https://www.codingame.com/profile/ac3c4e95dd57ea2c922bdc7beda8db082755706/following
-) and [CSSBattle](https://cssbattle.dev/player/albertc).
+), [CSSBattle](https://cssbattle.dev/player/albertc), and [HackTheBox](https://app.hackthebox.com/profile/2067152)
 
-- 🌱 Matering **CSS and JavaScript**.
+- 🌱 Projects will be available at [Valiant Visions](https://valiant-visions.com).
 
-- 👨‍💻 Projects will be available at [Valiant Visions](https://valiant-visions.com).
-
-- 💬 Let's talk about **CSS, JavaScript and Rust**.
+- 💬 Let's talk about **CSS, JavaScript and Bug Hunting**.
 
 - 📫 Cheers to meeting **albertchambers09@gmail.com**.
 &#8287;
