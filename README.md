@@ -45,7 +45,8 @@
   <a href="#"><img align="left" alt="Mark Down" Title="Markdown" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="HyperText Markup Language" Title="HTML5" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="Cascade Sheet Style Three" Title="CSS3" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a>&#8287;&#8287;
-  <a href="#"><img align="left" alt="JavaScript" Title="JavaScript" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="JavaScript" Title="JavaScript" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="PowerShell" Title="PowerShell" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg"></a>&#8287;&#8287;
 </p>
 &#8287;
 
