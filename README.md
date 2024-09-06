@@ -22,7 +22,7 @@
 &#8287;
 
 <summary><h2>Front-End Software Developer | SEO Specialist | Bug Hunter</h2></summary>
-<p>Adventures <em>front-end developer</em> with hands-on experience in <em>SEO</em> and <em>CMS</em>. Currently acquiring skills in CSS and JavaScript to craft responsive, user-friendly interfaces. On a journey to dive deep into full-stack (PERN/ MERN) JavaScript engineering. With future aspirations in Rust and joining the Rustacean community.</p>
+<p>As a Front-End Software Developer, I build interactive and efficient user interfaces, ensuring the web experience is seamless across all devices. My SEO specialist experience aligns perfectly with this goal by optimizing code structure and content for better search engine visibility and enhancing performance thus leading to better user reach. Additionally, my newfound hobby as a Bug Hunter is sharpening my ability to identify and resolve security vulnerabilities, ensuring the robustness and integrity of every application I work on. These disciplines create a well-rounded approach to crafting high-performing, secure, and discoverable web applications.</p>
 
 - 🔭 Pursuing **Full React Stack Software Development** at [CodeSpace Academy](https://www.codespace.co.za/) and [freeCodeCamp](https://www.freecodecamp.org/).
 
