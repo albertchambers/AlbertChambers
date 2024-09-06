@@ -36,6 +36,16 @@
 - 📫 Cheers to meeting **albertchambers09@gmail.com**.
 &#8287;
 
+let albert = "Learning and coding";
+
+function letAlbertGrow() {
+    albert += " every day!";
+    return albert;
+}
+
+console.log(letAlbertGrow());
+&#8287;
+
 <Details open>
 <summary><h2>Current Digital Craftsman's Tools</h2></summary>
 &#8287;
