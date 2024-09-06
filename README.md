@@ -39,7 +39,7 @@
 const albert = "Learning and coding";
 
 function letAlbertGrow() {
-    albert += " every day!";
+    albert += " every day!"; 
     return albert;
 }
 
