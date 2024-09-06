@@ -54,7 +54,7 @@
 <p>
   <a href="#"><img align="left" alt="Bootstrap" Title="Bootstrap" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>&#8287;&#8287;
   <a href="#"><img align="left" alt="SCSS" Title="Tailwindcss" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"></a>&#8287;&#8287;
-  <a href="#"><img align="left" alt="React" Title="React" width="50px" style="padding-right:10px;" src="https://portswigger.net/content/images/svg/icons/community.svg"></a>&#8287;&#8287;
+  <a href="#"><img align="left" alt="Burp" Title="Burp" width="50px" style="padding-right:10px;" src="https://portswigger.net/content/images/svg/icons/community.svg"></a>&#8287;&#8287;
 </p>
 &#8287;
 
