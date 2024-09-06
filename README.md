@@ -24,7 +24,7 @@
 <summary><h2>Front-End Software Developer | Search Engine Optimization Specialist | Bug Hunter</h2></summary>
 <p>As a <em>Front-End Software Developer</em>, I craft interactive and efficient user interfaces, ensuring the web experience is adaptable across all devices. My <em>SEO specialist</em> experience aligns perfectly with this goal by optimizing code structure and content for better search engine visibility and enhancing performance thus leading to better user reach. Additionally, my newfound hobby as a <em>Bug Hunter</em> is sharpening my ability to identify and resolve security vulnerabilities, ensuring the robustness and integrity of every application I work on. These disciplines create a well-rounded approach to crafting high-performing, secure, and discoverable web applications.</p>
 
-- 🔭 Pursuing **Full React Stack Software Development** at [CodeSpace Academy](https://www.codespace.co.za/) and [freeCodeCamp](https://www.freecodecamp.org/).
+- 🔭 Pursuing **Full-Stack Software Development** at [CodeSpace Academy](https://www.codespace.co.za/) and [freeCodeCamp](https://www.freecodecamp.org/).
 
 - :triumph: Mastering skills through [CodeWars](https://www.codewars.com/users/AlbertChambers), [CodinGame](https://www.codingame.com/profile/ac3c4e95dd57ea2c922bdc7beda8db082755706/following
 ), [CSSBattle](https://cssbattle.dev/player/albertc), and [HackTheBox](https://app.hackthebox.com/profile/2067152)
