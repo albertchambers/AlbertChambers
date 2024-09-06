@@ -82,6 +82,7 @@
 <Details close>
 <summary><h2>Acquiring Digital Craftsman's Tools</h2></summary>
 &#8287;
+<p>This list is made with freeCodeCamps' curriculum as a reference. It serves as a motivational ticklist.</p>
 
 <h3>Next Programming and Markup Languages</h3>
 <p>
