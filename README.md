@@ -36,14 +36,24 @@
 - 📫 Cheers to meeting **albertchambers09@gmail.com**.
 &#8287;
 
-const albert = "Learning and coding";
+class GitHubWeb extends HackWeb {
+  constructor() {
+    super();
+    this.platform = "GitHub";
+  }
 
-function letAlbertGrow() {
-    albert += " every day!"; 
-    return albert;
+  repositoryLink() {
+    return `My coding journey began with core lessons on ${this.educationalPlatforms.join(', ')}, providing a foundation for advanced work on ${this.cssBattle}, ${this.codeWars}, and ${this.hackTheBox}. All projects are hosted here on ${this.platform}.`;
+  }
+
+  connectBackToLinkedIn() {
+    return `The work hosted on ${this.platform} is a reflection of my technical journey, starting from foundational training on ${this.educationalPlatforms.join(', ')}, showcased on my ${this.platform}.`;
+  }
 }
 
-console.log(letAlbertGrow());
+const gitHubNode = new GitHubWeb();
+console.log(gitHubNode.repositoryLink());  // GitHub houses Scrimba, CodeSpace Academy, and freeCodeCamp projects
+console.log(gitHubNode.connectBackToLinkedIn());  // GitHub links back to LinkedIn to show growth from the educational platforms
 &#8287;
 
 <Details open>
