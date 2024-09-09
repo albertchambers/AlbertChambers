@@ -43,17 +43,17 @@ class GitHubWeb extends HackWeb {
   }
 
   repositoryLink() {
-    return `My coding journey began with core lessons on ${this.educationalPlatforms.join(', ')}, providing a foundation for advanced work on ${this.cssBattle}, ${this.codeWars}, and ${this.hackTheBox}. All projects are hosted here on ${this.platform}.`;
+    return `My coding journey began with core lessons on ${this.scrimba}, ${this.codeSpaceAcademy}, and ${this.freeCodeCamp}, providing a foundation for advanced work on ${this.cssBattle}, ${this.codeWars}, and ${this.hackTheBox}. All projects are hosted here on ${this.platform}.`;
   }
 
   connectBackToLinkedIn() {
-    return `The work hosted on ${this.platform} is a reflection of my technical journey, starting from foundational training on ${this.educationalPlatforms.join(', ')}, showcased on my ${this.platform}.`;
+    return `The work hosted on ${this.platform} is a reflection of my technical journey, starting from foundational training on ${this.scrimba}, ${this.codeSpaceAcademy}, and ${this.freeCodeCamp}, showcased on my ${this.platform}.`;
   }
 }
 
 const gitHubNode = new GitHubWeb();
-console.log(gitHubNode.repositoryLink());  // GitHub houses Scrimba, CodeSpace Academy, and freeCodeCamp projects
-console.log(gitHubNode.connectBackToLinkedIn());  // GitHub links back to LinkedIn to show growth from the educational platforms
+console.log(gitHubNode.repositoryLink());  
+console.log(gitHubNode.connectBackToLinkedIn());  
 &#8287;
 
 <Details open>
