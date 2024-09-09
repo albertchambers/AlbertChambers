@@ -26,8 +26,7 @@
 
 - 🔭 Pursuing **Full-Stack Software Development** at [CodeSpace Academy](https://www.codespace.co.za/) and [freeCodeCamp](https://www.freecodecamp.org/).
 
-- :triumph: Mastering skills through [CodeWars](https://www.codewars.com/users/AlbertChambers), [CodinGame](https://www.codingame.com/profile/ac3c4e95dd57ea2c922bdc7beda8db082755706/following
-), [CSSBattle](https://cssbattle.dev/player/albertc), and [HackTheBox](https://app.hackthebox.com/profile/2067152)
+- :triumph: Mastering skills through [CodeWars](https://www.codewars.com/users/AlbertChambers), [CSSBattle](https://cssbattle.dev/player/albertc), and [HackTheBox](https://app.hackthebox.com/profile/2067152)
 
 - 🌱 Projects will be available at [Valiant Visions](https://valiant-visions.com).
 
