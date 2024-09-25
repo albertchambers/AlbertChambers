@@ -51,8 +51,6 @@ class GitHubWeb extends HackWeb {
 }
 
 const gitHubNode = new GitHubWeb();
-console.log(gitHubNode.repositoryLink());  
-console.log(gitHubNode.connectBackToLinkedIn());  
 &#8287;
 
 <Details open>
