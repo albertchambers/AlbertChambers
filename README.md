@@ -63,17 +63,6 @@ HTML | CSS | JavaScript | UX Design | File Persistence
 
 ---
 
-## 🧰 Tech Toolbox## 📜 Certifications (Stackable + Upcoming)
-
-```bash
-Languages: JavaScript, TypeScript, Rust, Bash, PowerShell
-Frontend: React, TailwindCSS, SCSS (BEM), HTML5, CSS3
-Backend: Node.js, Express, Firebase (Auth, DB)
-DevOps & Tools: Git, GitHub, VSCode, Linux CLI, GitHub Actions
-Security Stack: Burp Suite, Wireshark, Snyk.io, HackTheBox
-
----
-
 ## 📈 Certifications
 
 | Certificate             | Provider           | Status     |
@@ -111,3 +100,15 @@ Currently diving deeper into:
 - 🎯 Real-time troubleshooting labs
 
 ---
+
+## 🧰 Tech Toolbox## 📜 Certifications (Stackable + Upcoming)
+
+```bash
+Languages: JavaScript, TypeScript, Rust, Bash, PowerShell
+Frontend: React, TailwindCSS, SCSS (BEM), HTML5, CSS3
+Backend: Node.js, Express, Firebase (Auth, DB)
+DevOps & Tools: Git, GitHub, VSCode, Linux CLI, GitHub Actions
+Security Stack: Burp Suite, Wireshark, Snyk.io, HackTheBox
+
+---
+
