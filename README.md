@@ -42,24 +42,21 @@ HTML | CSS | JavaScript | UX Design | File Persistence
 
 ---
 
-### 🎮 Blackjack JS Game  
+### 🎮 [Blackjack JS Game](https://github.com/albertchambers/Module_9R_CS20240194_WFO2407_Group-A_Albert-Chambers_SDF09_R)
 > Custom logic and DOM interactions for an interactive browser game—clean scoring and responsive layout  
 `JavaScript | DOM API | CSS Grid | Game Logic`  
-🔗 [View Repo](https://github.com/albertchambers/Module_9R_CS20240194_WFO2407_Group-A_Albert-Chambers_SDF09_R) :contentReference[oaicite:6]{index=6}
 
 ---
 
-### 🌐 Cache Bank Landing Page  
+### 🌐 [Cache Bank Landing Page](https://github.com/albertchambers/CS20240194_WFO2407_Group-A_Albert-Chambers_SDF11)
 > Responsive business landing page built during development modules—well-structured HTML, modern CSS styling  
 `HTML5 | CSS3 | Responsive Design`  
-🔗 [View Repo](https://github.com/albertchambers/CS20240194_WFO2407_Group-A_Albert-Chambers_SDF11) :contentReference[oaicite:7]{index=7}
 
 ---
 
-### 🍽️ Café Menu CSS (freeCodeCamp)  
+### 🍽️ [Café Menu CSS](https://github.com/albertchambers/Cafe-Menu-CSS-freeCodeCamp)
 > Styled menu UI using CSS Grid, Flexbox, and modern selectors — responsive mini-project from freeCodeCamp  
 `HTML | CSS Grid | Exhibiting Layout Control`  
-🔗 [View Repo](https://github.com/albertchambers/Cafe-Menu-CSS-freeCodeCamp) :contentReference[oaicite:8]{index=8}
 
 ---
 
@@ -67,11 +64,12 @@ HTML | CSS | JavaScript | UX Design | File Persistence
 
 | Certificate             | Provider           | Status     |
 |-------------------------|--------------------|------------|
-| Google IT Support       | Google/Coursera    | ✅ Completed |
+| Google IT Support       | Google/Coursera    | In Progress|
 | CompTIA A+              | CompTIA            | ✅ Completed |
 | CompTIA Network+        | CompTIA            | ✅ Completed |
-| CompTIA Security+       | CompTIA            | 🕓 In Progress |
-| TryHackMe Labs          | TryHackMe          | 🎓 Active |
+| Google Cybersecurity    | Google/Coursera    | ✅ Completed |
+| CompTIA Security+       | CompTIA            | Planned |
+| Cybersecurity Associate | HackTheBox         | In Progress |
 
 ---
 
