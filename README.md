@@ -118,5 +118,5 @@ My long-term goal is to build a career where I can help solve technical issues i
 
 ## Connect
 
-- LinkedIn: (https://www.linkedin.com/in/albert-chambers/)
-- GitHub: (https://github.com/albertchambers)
+- [LinkedIn](https://www.linkedin.com/in/albert-chambers/)
+- [GitHub](https://github.com/albertchambers)
