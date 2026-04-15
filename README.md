@@ -14,7 +14,7 @@ My work sits at the intersection of:
 - governance, risk, and controls
 - documentation that people can actually use
 
-I am especially interested in the side of cybersecurity that connects people, systems, and process, not just tools. That includes secure operations, identity and access management, risk awareness, incident handling, and building environments that are both usable and controlled.
+I am especially interested in the side of cybersecurity that connects people, systems, and processes, not just tools. That includes secure operations, identity and access management, risk awareness, incident handling, and building environments that are both usable and controlled.
 
 ---
 
@@ -28,7 +28,7 @@ I am currently developing hands-on knowledge in:
 - ISO 27001 Auditor
 - ServiceNow support and platform skills
 
-My goal is to grow into roles where I can combine technical support capability with security awareness, structured thinking, and governance-minded problem solving.
+My goal is to grow into roles where I can combine technical support capability with security awareness, structured thinking, and governance-minded problem-solving.
 
 ---
 
